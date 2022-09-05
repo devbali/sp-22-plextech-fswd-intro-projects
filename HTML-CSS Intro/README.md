@@ -25,7 +25,7 @@ All together, this is what your HTML documents will look like:
 </html>
 ```
 
-In this project folder, there is a file called `activity.html` where you will be adding onto for this into project. To open the file in Git Bash, navigate to this folder and type `start ./activity.html`.
+In this project folder, there is a file called `activity.html` where you will be adding onto for this into project. To open the file in Git Bash, navigate to this folder and type `start ./activity.html` if on Windows, `open ./activity.html` if on Mac, or `xdg-open ./activity.html` if on Linux.
 
 You will see that this will open an empty page. For this part of the project, we will be adding titles, favicons, and other pieces of metadata to our template. Complete the following tasks:
 
